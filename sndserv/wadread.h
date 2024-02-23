@@ -1,4 +1,4 @@
-// Emacs style mode select   -*- C++ -*- 
+// Emacs style mode select   -*- C++ -*-
 //-----------------------------------------------------------------------------
 //
 // $Id: wadread.h,v 1.3 1997/01/30 19:54:23 b1 Exp $
@@ -56,7 +56,7 @@ void openwad(char* wadname);
 
 void*
 getsfx
-( char*		sfxname,
-  int*		len );
+    (char* sfxname,
+     int* len);
 
 #endif
