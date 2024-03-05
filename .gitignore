@@ -1,0 +1,10 @@
+*.o
+*.flc
+
+.DS_Store
+linuxdoom-1.10/linux/
+
+.vscode/
+.vs/
+.idea/
+
